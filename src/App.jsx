@@ -1,4 +1,4 @@
-export default function App() {
+export default function Board() {
   return (
    <>
       <div className="board-row">
